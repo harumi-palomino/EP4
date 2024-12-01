@@ -24,7 +24,11 @@
                                             <label>Proveedor:</label>
                                             <div style="display: flex; align-items: center; gap: 8px;">
                                                 <input type="text" class="form-control" style="flex: 1;" placeholder="Ingrese proveedor">
-                                                <a href="#" class="btn btn-w-md btn-success">Buscar</a>
+                                                <a href="#" class="btn btn-w-md btn-success">
+                                                    <span class="pe-7s-search"></span>
+                                                    Buscar
+
+                                                </a>
                                             </div>
                                         </div>
 
@@ -66,7 +70,11 @@
                                         </div>
                                     </div>
 
-                                   <a href="#" class="btn btn-w-md btn-primary btn-rounded">Buscar Atributos</a>
+                                   <a href="#" class="btn btn-w-md btn-primary btn-rounded">
+                                       <span class="pe-7s-search"></span>
+                                       Buscar Atributos
+
+                                   </a>
 
                                 </div>
                                 <table id="tableExample3" class="table table-striped table-hover" style="border: 0.1px solid #646475; padding:20px;">
@@ -98,8 +106,8 @@
                                         <td style="text-align: center;"><input type="text" class="form-control" style="border: 0.1px solid #646475; max-width:150px"></td>
                                         <td style="text-align: center;">
                                             <div style="display: flex; align-items: center; gap:8px;">
-                                                <a href="#" class="btn btn-w-md btn-danger" style="flex:1;">x</a>
-                                                <a href="#" class="btn btn-w-md btn-success" style="flex:1;">+</a>
+                                                <a href="#" class="btn btn-w-md btn-danger" style="flex:1; font-weight: bold; ">x</a>
+                                                <a href="#" class="btn btn-w-md btn-success" style="flex:1; font-weight: bold;">+</a>
                                             </div>
                                         </td>
                                     </tr>
@@ -117,8 +125,8 @@
                                         <td style="text-align: center;"><input type="text" class="form-control" style="border: 0.1px solid #646475; max-width:150px"></td>
                                         <td style="text-align: center;">
                                             <div style="display: flex; align-items: center; gap:8px;">
-                                                <a href="#" class="btn btn-w-md btn-danger" style="flex:1;">x</a>
-                                                <a href="#" class="btn btn-w-md btn-success" style="flex:1;">+</a>
+                                                <a href="#" class="btn btn-w-md btn-danger" style="flex:1; font-weight: bold;">x</a>
+                                                <a href="#" class="btn btn-w-md btn-success" style="flex:1; font-weight: bold;">+</a>
                                             </div>
                                         </td>
                                     </tr>   
@@ -136,8 +144,8 @@
                                         <td style="text-align: center;"><input type="text" class="form-control" style="border: 0.1px solid #646475; max-width:150px"></td>
                                         <td style="text-align: center;">
                                             <div style="display: flex; align-items: center; gap:8px;">
-                                                <a href="#" class="btn btn-w-md btn-danger" style="flex:1;">x</a>
-                                                <a href="#" class="btn btn-w-md btn-success" style="flex:1;">+</a>
+                                                <a href="#" class="btn btn-w-md btn-danger" style="flex:1; font-weight: bold;">x</a>
+                                                <a href="#" class="btn btn-w-md btn-success" style="flex:1; font-weight: bold;">+</a>
                                             </div>
                                         </td>
                                     </tr>
